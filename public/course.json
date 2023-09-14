@@ -1,196 +1,196 @@
 {
     "products": [
       {
-        "ID": 1001,
-        "Product Name": "Smart Speaker",
-        "Product Title": "Premium Smart Speaker with Voice Assistant",
-        "Image": "https://media.wired.com/photos/642ad958d69ecc93510cbaeb/master/w_1280%2Cc_limit/Sonos-Era-300---Side-Angle---Black_gear.jpg",
-        "Description": "Enjoy crystal-clear audio and seamless voice control with our premium smart speaker. Connect to your favorite music streaming services and control your smart home devices effortlessly.",
-        "Price": 149.99
+        "id": 1001,
+        "product_name": "Smart Speaker",
+        "product_title": "Premium Smart Speaker with Voice Assistant",
+        "img": "https://media.wired.com/photos/642ad958d69ecc93510cbaeb/master/w_1280%2Cc_limit/Sonos-Era-300---Side-Angle---Black_gear.jpg",
+        "desc": "Enjoy crystal-clear audio and seamless voice control with our premium smart speaker. Connect to your favorite music streaming services and control your smart home devices effortlessly.",
+        "price": 149.99
       },
       {
-        "ID": 1002,
-        "Product Name": "Wireless Earbuds",
-        "Product Title": "True Wireless Bluetooth Earbuds",
-        "Image": "https://phoneshopbd.com/19481-large_default/baseus-w3-encok-true-wireless-earphones-bluetooth-earbuds.jpg",
-        "Description": "Experience ultimate freedom with our true wireless Bluetooth earbuds. They provide immersive sound and a comfortable fit for all-day use.",
-        "Price": 79.99
+        "id": 1002,
+        "product_name": "Wireless Earbuds",
+        "product_title": "True Wireless Bluetooth Earbuds",
+        "img": "https://phoneshopbd.com/19481-large_default/baseus-w3-encok-true-wireless-earphones-bluetooth-earbuds.jpg",
+        "desc": "Experience ultimate freedom with our true wireless Bluetooth earbuds. They provide immersive sound and a comfortable fit for all-day use.",
+        "price": 79.99
       },
       {
-        "ID": 1003,
-        "Product Name": "Laptop",
-        "Product Title": "High-Performance Laptop with 15-inch Display",
-        "Image": "https://cdn.thewirecutter.com/wp-content/media/2023/07/editinglaptop-2048px-9689.jpg",
-        "Description": "Get work done efficiently with our high-performance laptop featuring a 15-inch display, powerful processor, and long-lasting battery.",
-        "Price": 999.99
+        "id": 1003,
+        "product_name": "Laptop",
+        "product_title": "High-Performance Laptop with 15-inch Display",
+        "img": "https://cdn.thewirecutter.com/wp-content/media/2023/07/editinglaptop-2048px-9689.jpg",
+        "desc": "Get work done efficiently with our high-performance laptop featuring a 15-inch display, powerful processor, and long-lasting battery.",
+        "price": 999.99
       },
       {
-        "ID": 1004,
-        "Product Name": "Smart TV",
-        "Product Title": "4K Ultra HD Smart TV with Voice Control",
-        "Image": "https://pentanik.com/wp-content/uploads/2022/11/75-inch-tv-pentanik-2-min.jpg",
-        "Description": "Transform your entertainment experience with our 4K Ultra HD Smart TV. Enjoy streaming your favorite content and control it with your voice.",
-        "Price": 599.99
+        "id": 1004,
+        "product_name": "Smart TV",
+        "product_title": "4K Ultra HD Smart TV with Voice Control",
+        "img": "https://pentanik.com/wp-content/uploads/2022/11/75-inch-tv-pentanik-2-min.jpg",
+        "desc": "Transform your entertainment experience with our 4K Ultra HD Smart TV. Enjoy streaming your favorite content and control it with your voice.",
+        "price": 599.99
       },
       {
-        "ID": 1005,
-        "Product Name": "Digital Camera",
-        "Product Title": "24MP DSLR Camera with Lens Kit",
-        "Image": "https://www.bdstall.com/asset/product-image/giant_78155.jpg",
-        "Description": "Capture stunning photos and videos with our 24MP DSLR camera. The included lens kit ensures versatility in your photography.",
-        "Price": 649.99
+        "id": 1005,
+        "product_name": "Digital Camera",
+        "product_title": "24MP DSLR Camera with Lens Kit",
+        "img": "https://fujaelelectronics.com/wp-content/uploads/2022/04/77.1.jpg",
+        "desc": "Capture stunning photos and videos with our 24MP DSLR camera. The included lens kit ensures versatility in your photography.",
+        "price": 649.99
       },
       {
-        "ID": 1006,
-        "Product Name": "Gaming Console",
-        "Product Title": "Next-Gen Gaming Console with 1TB Storage",
-        "Image": "https://mcprod.jumbo.ae/media/catalog/product/x/b/xbox_console_seriess_1tb_emea_me_anl_1200x1200.jpg",
-        "Description": "Immerse yourself in the world of gaming with our next-gen console. It offers 1TB of storage for all your gaming adventures.",
-        "Price": 499.99
+        "id": 1006,
+        "product_name": "Gaming Console",
+        "product_title": "Next-Gen Gaming Console with 1TB Storage",
+        "img": "https://mcprod.jumbo.ae/media/catalog/product/x/b/xbox_console_seriess_1tb_emea_me_anl_1200x1200.jpg",
+        "desc": "Immerse yourself in the world of gaming with our next-gen console. It offers 1TB of storage for all your gaming adventures.",
+        "price": 499.99
       },
       {
-        "ID": 1007,
-        "Product Name": "Tablet",
-        "Product Title": "10-inch Android Tablet with 4G LTE",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSp9j_DkCfbJbxnJNQPa6dHDy94j_a3OajwCS1gQcRCXyFanRXgPwvO9l_RMT2Kor3SYE&usqp=CAU",
-        "Description": "Stay connected on the go with our 10-inch Android tablet featuring 4G LTE support. Enjoy multimedia and productivity apps.",
-        "Price": 299.99
+        "id": 1007,
+        "product_name": "Tablet",
+        "product_title": "10-inch Android Tablet with 4G LTE",
+        "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRSp9j_DkCfbJbxnJNQPa6dHDy94j_a3OajwCS1gQcRCXyFanRXgPwvO9l_RMT2Kor3SYE&usqp=CAU",
+        "desc": "Stay connected on the go with our 10-inch Android tablet featuring 4G LTE support. Enjoy multimedia and productivity apps.",
+        "price": 299.99
       },
       {
-        "ID": 1008,
-        "Product Name": "Wireless Router",
-        "Product Title": "Dual-Band Gigabit Wireless Router",
-        "Image": "https://www.startech.com.bd/image/cache/catalog/router/tenda/ac23-2033mbps-ac2100/ac23-2033mbps-ac2100-1-500x500.jpg",
-        "Description": "Boost your home network with our dual-band gigabit wireless router. Stream, game, and work with ease.",
-        "Price": 129.99
+        "id": 1008,
+        "product_name": "Wireless Router",
+        "product_title": "Dual-Band Gigabit Wireless Router",
+        "img": "https://www.startech.com.bd/image/cache/catalog/router/tenda/ac21/ac21-1-500x500.jpg",
+        "desc": "Boost your home network with our dual-band gigabit wireless router. Stream, game, and work with ease.",
+        "price": 129.99
       },
       {
-        "ID": 1009,
-        "Product Name": "Smartwatch",
-        "Product Title": "Fitness Tracker Smartwatch with Heart Rate Monitor",
-        "Image": "https://m.media-amazon.com/images/I/61yCOgp4ivL._AC_SX522_.jpg",
-        "Description": "Achieve your fitness goals with our smartwatch. It monitors your heart rate, tracks workouts, and keeps you connected.",
-        "Price": 129.99
+        "id": 1009,
+        "product_name": "Smartwatch",
+        "product_title": "Fitness Tracker Smartwatch with Heart Rate Monitor",
+        "img": "https://m.media-amazon.com/images/I/61O6LJsS4RL._AC_UF1000,1000_QL80_.jpg",
+        "desc": "Achieve your fitness goals with our smartwatch. It monitors your heart rate, tracks workouts, and keeps you connected.",
+        "price": 129.99
       },
       {
-        "ID": 1010,
-        "Product Name": "Wireless Mouse",
-        "Product Title": "Ergonomic Wireless Mouse with Precision Tracking",
-        "Image": "https://cdn11.bigcommerce.com/s-sp9oc95xrw/images/stencil/1280x1280/products/11705/55577/silder.blue__13400.1678187654.jpg?c=2",
-        "Description": "Work comfortably and efficiently with our ergonomic wireless mouse. It offers precise tracking for increased productivity.",
-        "Price": 29.99
+        "id": 1010,
+        "product_name": "Wireless Mouse",
+        "product_title": "Ergonomic Wireless Mouse with Precision Tracking",
+        "img": "https://m.media-amazon.com/images/I/61sLymTC6IL._AC_UF1000,1000_QL80_.jpg",
+        "desc": "Work comfortably and efficiently with our ergonomic wireless mouse. It offers precise tracking for increased productivity.",
+        "price": 29.99
       },
       {
-        "ID": 1011,
-        "Product Name": "Headphones",
-        "Product Title": "Over-Ear Noise-Canceling Headphones",
-        "Image": "https://api.motionview.com.bd/storage/images/products/profile/16819662232.HAYLOU%20S35%20ANC%20Headphones%20b.webp",
-        "Description": "Escape into your music with our over-ear noise-canceling headphones. Enjoy immersive sound without distractions.",
-        "Price": 199.99
+        "id": 1011,
+        "product_name": "Headphones",
+        "product_title": "Over-Ear Noise-Canceling Headphones",
+        "img": "https://i5.walmartimages.com/asr/2b53afbd-5893-4858-bd5d-64403805f0f0.370681d6080b96249a229efa6ae674d8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+        "desc": "Escape into your music with our over-ear noise-canceling headphones. Enjoy immersive sound without distractions.",
+        "price": 199.99
       },
       {
-        "ID": 1012,
-        "Product Name": "Smartphone",
-        "Product Title": "5G Android Smartphone with Dual Cameras",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjaWtFbj-mckPSUnhaQb3XULWW1cWA2wJA1eAS9y8VFW7TQd9L5FGJm1NZg4c3o7iUVI&usqp=CAU",
-        "Description": "Stay connected and capture memories with our 5G Android smartphone. It features dual cameras for stunning photos and videos.",
-        "Price": 799.99
+        "id": 1012,
+        "product_name": "Smartphone",
+        "product_title": "5G Android Smartphone with Dual Cameras",
+        "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRmjaWtFbj-mckPSUnhaQb3XULWW1cWA2wJA1eAS9y8VFW7TQd9L5FGJm1NZg4c3o7iUVI&usqp=CAU",
+        "desc": "Stay connected and capture memories with our 5G Android smartphone. It features dual cameras for stunning photos and videos.",
+        "price": 799.99
       },
       {
-        "ID": 1013,
-        "Product Name": "External Hard Drive",
-        "Product Title": "2TB USB 3.0 External Hard Drive",
-        "Image": "https://www.binarylogic.com.bd/images/product_image/largeseagate-2tb-expansion-portable-usb-30-external-hard-drive.webp",
-        "Description": "Expand your storage with our 2TB USB 3.0 external hard drive. Store and backup your important files with ease.",
-        "Price": 89.99
+        "id": 1013,
+        "product_name": "External Hard Drive",
+        "product_title": "2TB USB 3.0 External Hard Drive",
+        "img": "https://5.imimg.com/data5/RG/MN/MY-46215826/wdc-ext-my-book-6tb-usb-3-0-black-28hard-drive-29-250x250.jpg",
+        "desc": "Expand your storage with our 2TB USB 3.0 external hard drive. Store and backup your important files with ease.",
+        "price": 89.99
       },
       {
-        "ID": 1014,
-        "Product Name": "VR Headset",
-        "Product Title": "Immersive VR Headset with Motion Tracking",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmde3oTOT3LNqsukNglwbi2OnCrkGUocMHB-0pqsPoJ3Yz1Ku2MhxMVJ73NniNcnRL2E&usqp=CAU",
-        "Description": "Experience virtual reality like never before with our immersive VR headset. It includes motion tracking for a truly immersive experience.",
-        "Price": 299.99
+        "id": 1014,
+        "product_name": "VR Headset",
+        "product_title": "Immersive VR Headset with Motion Tracking",
+        "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcTVmde3oTOT3LNqsukNglwbi2OnCrkGUocMHB-0pqsPoJ3Yz1Ku2MhxMVJ73NniNcnRL2E&usqp=CAU",
+        "desc": "Experience virtual reality like never before with our immersive VR headset. It includes motion tracking for a truly immersive experience.",
+        "price": 299.99
       },
       {
-        "ID": 1015,
-        "Product Name": "Portable Bluetooth Speaker",
-        "Product Title": "Compact Portable Bluetooth Speaker",
-        "Image": "https://d2xamzlzrdbdbn.cloudfront.net/products/d7a9f5af-0705-4dae-b018-9b376ea1ef9022011354.jpg",
-        "Description": "Take your music wherever you go with our compact portable Bluetooth speaker. It delivers impressive sound in a small package.",
-        "Price": 49.99
+        "id": 1015,
+        "product_name": "Portable Bluetooth Speaker",
+        "product_title": "Compact Portable Bluetooth Speaker",
+        "img": "https://d2xamzlzrdbdbn.cloudfront.net/products/d7a9f5af-0705-4dae-b018-9b376ea1ef9022011354.jpg",
+        "desc": "Take your music wherever you go with our compact portable Bluetooth speaker. It delivers impressive sound in a small package.",
+        "price": 49.99
       },
       {
-        "ID": 1016,
-        "Product Name": "Monitor",
-        "Product Title": "27-inch 4K Ultra HD Monitor",
-        "Image": "https://www.cloud.ryanscomputers.com/cdn/products/main/redmi-4k-27-inch-4k-ips-black-dual-hdmi-dp-11678775309.webp",
-        "Description": "Upgrade your workstation with our 27-inch 4K Ultra HD monitor. Enjoy stunning visuals for work or play.",
-        "Price": 399.99
+        "id": 1016,
+        "product_name": "Monitor",
+        "product_title": "27-inch 4K Ultra HD Monitor",
+        "img": "https://www.cloud.ryanscomputers.com/cdn/products/main/redmi-4k-27-inch-4k-ips-black-dual-hdmi-dp-11678775309.webp",
+        "desc": "Upgrade your workstation with our 27-inch 4K Ultra HD monitor. Enjoy stunning visuals for work or play.",
+        "price": 399.99
       },
       {
-        "ID": 1017,
-        "Product Name": "Wireless Keyboard",
-        "Product Title": "Slim Wireless Keyboard with Numeric Keypad",
-        "Image": "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/BK61006KB_bonelk_km_322_slim_wireless_keyboard_mouse_combo_teal.jpg/resize?size=600&auth=MjA5OTcwODkwMg__",
-        "Description": "Type comfortably with our slim wireless keyboard featuring a numeric keypad. Connect wirelessly for convenience.",
-        "Price": 59.99
+        "id": 1017,
+        "product_name": "Wireless Keyboard",
+        "product_title": "Slim Wireless Keyboard with Numeric Keypad",
+        "img": "https://bestdealsnepal.com.np/wp-content/uploads/2016/12/Combo-of-Slim-Wireless-Keyboard-Mouse-Black-with-Numeric-Pad.jpg",
+        "desc": "Type comfortably with our slim wireless keyboard featuring a numeric keypad. Connect wirelessly for convenience.",
+        "price": 59.99
       },
       {
-        "ID": 1018,
-        "Product Name": "Action Camera",
-        "Product Title": "4K Action Camera with Waterproof Case",
-        "Image": "https://static-01.daraz.com.bd/original/3bdb89fd8fc456eddad02ec9e4749868.jpg",
-        "Description": "Capture your adventures in 4K with our action camera. It comes with a waterproof case for underwater recording.",
-        "Price": 129.99
+        "id": 1018,
+        "product_name": "Action Camera",
+        "product_title": "4K Action Camera with Waterproof Case",
+        "img": "https://static-01.daraz.com.bd/original/3bdb89fd8fc456eddad02ec9e4749868.jpg",
+        "desc": "Capture your adventures in 4K with our action camera. It comes with a waterproof case for underwater recording.",
+        "price": 129.99
       },
       {
-        "ID": 1019,
-        "Product Name": "Wireless Headset",
-        "Product Title": "Wireless Gaming Headset with Surround Sound",
-        "Image": "https://diamu.com.bd/wp-content/uploads/2021/12/HYPERX-CLOUD-II-SURROUND-SOUND-GAMING-HEADSET.jpg",
-        "Description": "Immerse yourself in gaming with our wireless headset. Experience surround sound and crystal-clear communication.",
-        "Price": 149.99
+        "id": 1019,
+        "product_name": "Wireless Headset",
+        "product_title": "Wireless Gaming Headset with Surround Sound",
+        "img": "https://diamu.com.bd/wp-content/uploads/2021/12/HYPERX-CLOUD-II-SURROUND-SOUND-GAMING-HEADSET.jpg",
+        "desc": "Immerse yourself in gaming with our wireless headset. Experience surround sound and crystal-clear communication.",
+        "price": 149.99
       },
       {
-        "ID": 1020,
-        "Product Name": "Smart Thermostat",
-        "Product Title": "Programmable Smart Thermostat with WiFi",
-        "Image": "https://images.thdstatic.com/productImages/c3aa5932-c698-443e-8728-2774cc35ce41/svn/white-honeywell-home-programmable-thermostats-rth6580wf-64_600.jpg",
-        "Description": "Effortlessly control your home's temperature with our programmable smart thermostat. Connect via WiFi for remote access.",
-        "Price": 129.99
+        "id": 1020,
+        "product_name": "Smart Thermostat",
+        "product_title": "Programmable Smart Thermostat with WiFi",
+        "img": "https://i.ebayimg.com/images/g/koQAAOSwTKRcteL1/s-l400.jpg",
+        "desc": "Effortlessly control your home's temperature with our programmable smart thermostat. Connect via WiFi for remote access.",
+        "price": 129.99
       },
       {
-        "ID": 1021,
-        "Product Name": "Compact Drone",
-        "Product Title": "Compact Drone with HD Camera",
-        "Image": "https://alflip.com/uploads/all/1672472834_DJI%20Mini%20SE%20Camera%20Drone%20%E2%80%93%20Fly%20More%20Combo.jpg",
-        "Description": "Capture breathtaking aerial shots with our compact drone. It features an HD camera for stunning footage.",
-        "Price": 299.99
+        "id": 1021,
+        "product_name": "Compact Drone",
+        "product_title": "Compact Drone with HD Camera",
+        "img": "https://alflip.com/uploads/all/1672472834_DJI%20Mini%20SE%20Camera%20Drone%20%E2%80%93%20Fly%20More%20Combo.jpg",
+        "desc": "Capture breathtaking aerial shots with our compact drone. It features an HD camera for stunning footage.",
+        "price": 299.99
       },
       {
-        "ID": 1022,
-        "Product Name": "Smart Doorbell",
-        "Product Title": "Video Doorbell with Two-Way Audio",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjRtU_mDL_WFDCr-yQfp_lWVmKOgnRBbfJQ&usqp=CAU",
-        "Description": "Enhance your home security with our video doorbell. It allows for two-way audio communication and remote monitoring.",
-        "Price": 199.99
+        "id": 1022,
+        "product_name": "Smart Doorbell",
+        "product_title": "Video Doorbell with Two-Way Audio",
+        "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcTNjRtU_mDL_WFDCr-yQfp_lWVmKOgnRBbfJQ&usqp=CAU",
+        "desc": "Enhance your home security with our video doorbell. It allows for two-way audio communication and remote monitoring.",
+        "price": 199.99
       },
       {
-        "ID": 1023,
-        "Product Name": "Wireless Charging Pad",
-        "Product Title": "Qi Wireless Charging Pad for Smartphones",
-        "Image": "https://i5.walmartimages.ca/images/Large/893/378/6000201893378.jpg",
-        "Description": "Charge your smartphone wirelessly with our Qi wireless charging pad. Simply place your phone on the pad for hassle-free charging.",
-        "Price": 24.99
+        "id": 1023,
+        "product_name": "Wireless Charging Pad",
+        "product_title": "Qreless Chi Wiarging Pad for Smartphones",
+        "img": "https://m.media-amazon.com/images/I/61qBGwej4VL.jpg",
+        "desc": "Charge your smartphone wirelessly with our Qi wireless charging pad. Simply place your phone on the pad for hassle-free charging.",
+        "price": 24.99
       },
       {
-        "ID": 1024,
-        "Product Name": "Ebook Reader",
-        "Product Title": "High-Resolution Ebook Reader with Adjustable Lighting",
-        "Image": "https://www.popsci.com/uploads/2021/08/30/kobo-clara-HD-ereaders.jpg?auto=webp",
-        "Description": "Enjoy your favorite books with our high-resolution ebook reader. Adjust the lighting for comfortable reading day or night.",
-        "Price": 129.99
+        "id": 1024,
+        "product_name": "Ebook Reader",
+        "product_title": "High-Resolution Ebook Reader with Adjustable Lighting",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/2661-Black-1409.jpg",
+        "desc": "Enjoy your favorite books with our high-resolution ebook reader. Adjust the lighting for comfortable reading day or night.",
+        "price": 129.99
       }
     ]
   }
